@@ -28,6 +28,7 @@
                 <br><br>
                 <h1 class="header center orange-text">Software académico</h1>
                 <h3>Hola mundo</h3>
+                <h3>Hola mundo</h3>
                 <br><br>
             </div>
         </div>
